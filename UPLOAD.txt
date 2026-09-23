@@ -1,0 +1,4 @@
+Fichiers prepares pour yassin98087-creator/luau-loader, branche main.
+Deposer les trois fichiers .luau a la racine, sans modification.
+Les URLs et empreintes sont appariees. Tests locaux avec requetes simulees reussis.
+Publication GitHub non effectuee, branche main supposee et acces distant non verifie.
